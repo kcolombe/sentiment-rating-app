@@ -6,7 +6,7 @@ This repository contains a Voilà notebook that presents random texts for sentim
 
 Click the badge below to start the app online (build takes ~1 minute):
 
-[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kcolombe/sentiment-rating-app/main?urlpath=voila%2Frender%2Fpost_match_rating.ipynb)
+[![Launch in Binder (Lab)](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kcolombe/sentiment-rating-app/main?urlpath=lab%2Ftree%2Fpost_match_rating.ipynb)
 
 ## Files
 
