@@ -8,7 +8,6 @@ Click the badge below to start the app online (build takes ~1 minute):
 
 [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kcolombe/sentiment-rating-app/main?urlpath=voila%2Frender%2Fpost_match_rating.ipynb)
 
-
 ## Files
 
 - **post_match_rating.ipynb** — the interactive app  
