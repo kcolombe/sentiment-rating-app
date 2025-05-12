@@ -3,8 +3,7 @@
     "show_tracebacks": true,
     "debug": true,
     "file_whitelist": [
-      "post_match_texts\\.csv$",
-      "app_responses\\.csv$"
+      "\\.csv$"
     ]
   }
 }
